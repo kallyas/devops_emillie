@@ -1,0 +1,16 @@
+{
+  "name": "devops_emillie",
+  "version": "1.0.0",
+  "description": "devops with emillie",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "mocha --reporter spec --recursive *.test.js --exit"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
